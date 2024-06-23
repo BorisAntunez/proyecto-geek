@@ -4,6 +4,17 @@
 
 
 
+header img{
+    width: 200px;
+}
+
+header h1 {
+    color:#0f0;
+    text-align: justify;
+    margin: 15px 0 35px 25px;
+} 
+
+
 body {
    background-color: #222;
    background-repeat: no-repeat;
@@ -14,29 +25,31 @@ body {
 }
 
 main {
-    background-color: #222;
     border-radius: 15px;
     border:solid #0f0;
 
 }
 
 
-
 .contenedor_principal{
     display: flex;
-    justify-content: space-between;
-    align-items: flex-start;
-    gap: 20px;
+    flex-wrap: wrap;
+    gap: 5px;
+    justify-content: center;
        
 }
 
-header h1 {
-    color:#0f0;
-    text-align: justify;
-    margin: 15px 0 35px 25px;
+.main-container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    justify-content: space-between;
 }
 
+
+
 .main-container h2{
+    width: 100%;
     text-align: center;
     font-size: 45px;
     color: rgb(12, 233, 12);

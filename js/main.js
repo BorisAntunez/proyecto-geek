@@ -1,8 +1,9 @@
-import { servicesProducts } from "../service/product-service.js";
+import { servicesProducts } from "../js/product-service.js";
 
 const productContainer = document.querySelector("[data-product]");
+const form = document.querySelector("[data-form]");
 
-function createCard(name, price, image){
+function createCard(name, price, image, id){
     const card = document.createElement("div");
     card.classList.add("card");
 
@@ -30,13 +31,33 @@ function createCard(name, price, image){
 const render = async () =>{
     try {
        const listProducts = await servicesProducts.productList();
-       console.log(listProducts)
+       
+       listProducts.forEach(product => {
+          productContainer.appendChild(
+            createCard(
+                product.name,
+                product.price,
+                product.image,
+                product.id
+            )
+          )
+       });
+
     } catch (error) {
         console.log(error) 
     }
-}
+};
 
+form.addEventListener("submit", (event)=>{
+    event.preventDefault();
+    const name = document.querySelector("[data-name]").value;
+    const price = document.querySelector("[data-price]").value;
+    const image = document.querySelector("[data-imagen]").value;
+    
+    servicesProducts.createProducts(name, price, image).then((res) => console.log(res)).catch((err) => console.log(err) )
+})
 render();
+
 
 
 

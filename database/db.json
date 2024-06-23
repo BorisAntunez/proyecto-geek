@@ -1,23 +1,46 @@
 {
-    "products": [
-       {
-        "name": "Seiya",
-         "price": "29990",
-         "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fpegasus-seiya-render-by-ladyheinstein-on-deviantart--668292032206908065%2F&psig=AOvVaw3biXAE-8i4DJukEuSFG5GL&ust=1719113239599000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNiss4Gi7oYDFQAAAAAdAAAAABAE",
-         "id": 1
-       } ,
-       {
-        "name": "batman",
-         "price": "29990",
-         "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fpegasus-seiya-render-by-ladyheinstein-on-deviantart--668292032206908065%2F&psig=AOvVaw3biXAE-8i4DJukEuSFG5GL&ust=1719113239599000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNiss4Gi7oYDFQAAAAAdAAAAABAE",
-         "id": 2
-       },
-       {
-        "name": "Flash",
-         "price": "29990",
-         "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fpegasus-seiya-render-by-ladyheinstein-on-deviantart--668292032206908065%2F&psig=AOvVaw3biXAE-8i4DJukEuSFG5GL&ust=1719113239599000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNiss4Gi7oYDFQAAAAAdAAAAABAE",
-         "id": 3
-       }
-
-    ]
+  "products": [
+    {
+      "name": "Seiya",
+      "price": "$29.990",
+      "image": "https://i.pinimg.com/564x/db/fa/02/dbfa021e275c96012f1e6e47f3735f42.jpg",
+      "id": 1
+    },
+    {
+      "name": "batman",
+      "price": "$29.990",
+      "image": "https://i.pinimg.com/564x/db/fa/02/dbfa021e275c96012f1e6e47f3735f42.jpg",
+      "id": 2
+    },
+    {
+      "name": "Flash",
+      "price": "$29.990",
+      "image": "https://i.pinimg.com/564x/db/fa/02/dbfa021e275c96012f1e6e47f3735f42.jpg",
+      "id": 3
+    },
+    {
+      "id": "30e1",
+      "name": "hulk",
+      "price": "15",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLWTpvvvZY9IfUEkU51Xz1t8rnEK145gpQgw&s"
+    },
+    {
+      "id": "0201",
+      "name": "hulk",
+      "price": "15990",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLWTpvvvZY9IfUEkU51Xz1t8rnEK145gpQgw&s"
+    },
+    {
+      "id": "7d51",
+      "name": "hulk",
+      "price": "15990",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLWTpvvvZY9IfUEkU51Xz1t8rnEK145gpQgw&s"
+    },
+    {
+      "id": "e4a2",
+      "name": "hulk",
+      "price": "15990",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLWTpvvvZY9IfUEkU51Xz1t8rnEK145gpQgw&s"
+    }
+  ]
 }

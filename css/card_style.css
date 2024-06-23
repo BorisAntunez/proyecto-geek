@@ -1,24 +1,44 @@
-.card_producto{
-    border: 2px solid #0f0 !important;
-    border-radius: 16px;
-    overflow: 16px;
-    margin: 0 0 25px 35px;
-    padding: 16px 0;
-    transition: border 0.2s ease;
-    width: 17%;
+.products-container{
+    width: 50%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
 
+.card{
+    border: 2px solid #0f0;
+    border-radius: 10px;
+    margin: 0 0 10px 35px;
+    padding: 10px; /* Espaciado interno reducido */
+    width: calc(200px - 20px);; /* Ancho fijo para cada tarjeta */
+    height: 280px; /* Altura automática para ajustarse al contenido */
+   
 }
 
 .image-container{
-    margin: 0 0 0 25px;
+    margin:0 0 0 35px;
+    width: 90%;
+    height:auto;
+    text-align: center;
+    
+}
+
+.image-container img{
+    width: 70%;
+    height: 180px;
+    display: block;
+    align-items: center;
+    border-radius: 5px;
+    
 }
 
 .descripcion{
     color: white;
     text-align: center;
+    margin: 10px 0;
 }
 
-.card-cantainer-precio p{
+.card-cantainer--value p{
     text-align: center;
     color: white;
     margin: 5px;
@@ -26,7 +46,7 @@
 
 .delete-button{
     background-color: #222;
-    margin: 5px 0 0 100px;
+    margin: auto;
 }
 .delete-button img{
     width: 40px;
