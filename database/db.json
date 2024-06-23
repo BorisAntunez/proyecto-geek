@@ -1,0 +1,23 @@
+{
+    "products": [
+       {
+        "name": "Seiya",
+         "price": "29990",
+         "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fpegasus-seiya-render-by-ladyheinstein-on-deviantart--668292032206908065%2F&psig=AOvVaw3biXAE-8i4DJukEuSFG5GL&ust=1719113239599000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNiss4Gi7oYDFQAAAAAdAAAAABAE",
+         "id": 1
+       } ,
+       {
+        "name": "batman",
+         "price": "29990",
+         "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fpegasus-seiya-render-by-ladyheinstein-on-deviantart--668292032206908065%2F&psig=AOvVaw3biXAE-8i4DJukEuSFG5GL&ust=1719113239599000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNiss4Gi7oYDFQAAAAAdAAAAABAE",
+         "id": 2
+       },
+       {
+        "name": "Flash",
+         "price": "29990",
+         "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fpegasus-seiya-render-by-ladyheinstein-on-deviantart--668292032206908065%2F&psig=AOvVaw3biXAE-8i4DJukEuSFG5GL&ust=1719113239599000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNiss4Gi7oYDFQAAAAAdAAAAABAE",
+         "id": 3
+       }
+
+    ]
+}

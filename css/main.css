@@ -1,0 +1,47 @@
+@import url('./card_style.css');
+@import url('./formulario_carga.css');
+@import url('./navegador.css');
+
+
+
+body {
+   background-color: #222;
+   background-repeat: no-repeat;
+   background-position: center center;
+   background-attachment: fixed;
+   background-size: cover;
+
+}
+
+main {
+    background-color: #222;
+    border-radius: 15px;
+    border:solid #0f0;
+
+}
+
+
+
+.contenedor_principal{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 20px;
+       
+}
+
+header h1 {
+    color:#0f0;
+    text-align: justify;
+    margin: 15px 0 35px 25px;
+}
+
+.main-container h2{
+    text-align: center;
+    font-size: 45px;
+    color: rgb(12, 233, 12);
+    margin: 0 0 55px;
+
+}
+
+

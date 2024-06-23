@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/reset.css">
+    <link rel="stylesheet" href="./css/main.css">
+    <title>Geekz</title>
+</head>
+<body>
+    <header>
+        <img src="Imagenes/logo (2).png" alt="logo">
+        <h1>MUNDO GEEK</h1>
+        <nav>
+            <ul>
+                <li>Home</li>
+                <li>Productos</li>
+                <li>Repositorio</li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="main-container">
+        
+            <h2>Mis Productos</h2> 
+        
+           <section class="contenedor_principal">
+ 
+           <section class="Formulario-carga">
+            <h1>Agregar Producto</h1>
+            <form class="form-container" data-form>
+                <input data-name  type="text" name="nombre" placeholder="Ingresa el Nombre" required>
+                <input data-price type="number" name="Precio" placeholder="Precio Producto" required>
+                <input data-imagen type="url" name="url-imagen" placeholder="Url Imagen" required>
+
+                <div>
+                    <button type="submit" class="button-submit" id="button">Enviar</button>
+                    <button type="reset" class="button-clear" id="button">Limpiar</button>
+                </div>
+ 
+            </form>
+
+           </section>
+        </section>
+    </main>
+   <script src="./js/controllers/main.js" type="module"></script>
+    
+</body>
+</html>

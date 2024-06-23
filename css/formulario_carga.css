@@ -1,0 +1,57 @@
+
+.Formulario-carga{
+    display: flex;
+    justify-content: end;
+    flex-direction: column;
+    margin: 0 35px ;
+    border: 2px solid #0f0;
+    border-radius: 15px;
+    padding: 16px 26px;
+    width: 300px;
+}
+
+.Formulario-carga h1{
+    color: #0f0;
+}
+
+.Formulario-carga h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.form-container input[type="text"],
+.form-container input[type="number"],
+.form-container input[type="url"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #379443;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: transparent;
+    outline: none;
+    
+}
+
+.form-container input::placeholder{
+    color: pink;
+}
+
+.form-container .button-submit,
+.form-container .button-clear {
+    padding: 10px 15px;
+    margin: 5px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.form-container .button-submit {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.form-container .button-clear {
+    background-color: #f44336;
+    color: white;
+}
