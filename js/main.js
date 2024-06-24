@@ -64,8 +64,13 @@ form.addEventListener("submit", (event)=>{
     const price = document.querySelector("[data-price]").value;
     const image = document.querySelector("[data-imagen]").value;
     
-    servicesProducts.createProducts(name, price, image).then((res) => console.log(res)).catch((err) => console.log(err) )
-})
+    servicesProducts.createProducts(name, price, image)
+    .then((res) => {
+        console.log(res);
+    })
+    .catch((err) => console.log(err));
+    
+});
 render();
 
 
