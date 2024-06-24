@@ -22,7 +22,17 @@ function createCard(name, price, image, id){
                 </button>
             </div>
                 </div>
-    `
+    `;
+
+    const deleteButton = card.querySelector(".delete-button");
+    deleteButton.addEventListener("click", async()=>{
+        try {
+            await servicesProducts.deleteProduct(id);
+            card.remove();
+        } catch (error) {
+            console.log(error);
+        }
+    })
 
     productContainer.appendChild(card);
     return card;

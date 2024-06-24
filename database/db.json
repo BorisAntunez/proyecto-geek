@@ -5,42 +5,6 @@
       "price": "$29.990",
       "image": "https://i.pinimg.com/564x/db/fa/02/dbfa021e275c96012f1e6e47f3735f42.jpg",
       "id": 1
-    },
-    {
-      "name": "batman",
-      "price": "$29.990",
-      "image": "https://i.pinimg.com/564x/db/fa/02/dbfa021e275c96012f1e6e47f3735f42.jpg",
-      "id": 2
-    },
-    {
-      "name": "Flash",
-      "price": "$29.990",
-      "image": "https://i.pinimg.com/564x/db/fa/02/dbfa021e275c96012f1e6e47f3735f42.jpg",
-      "id": 3
-    },
-    {
-      "id": "30e1",
-      "name": "hulk",
-      "price": "15",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLWTpvvvZY9IfUEkU51Xz1t8rnEK145gpQgw&s"
-    },
-    {
-      "id": "0201",
-      "name": "hulk",
-      "price": "15990",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLWTpvvvZY9IfUEkU51Xz1t8rnEK145gpQgw&s"
-    },
-    {
-      "id": "7d51",
-      "name": "hulk",
-      "price": "15990",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLWTpvvvZY9IfUEkU51Xz1t8rnEK145gpQgw&s"
-    },
-    {
-      "id": "e4a2",
-      "name": "hulk",
-      "price": "15990",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLWTpvvvZY9IfUEkU51Xz1t8rnEK145gpQgw&s"
     }
   ]
 }
