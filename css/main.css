@@ -60,3 +60,17 @@ main {
 }
 
 
+@media screen and (max-width: 736px) {
+    header img {
+        width: 100%;
+       display: flex;
+       justify-content: center;
+       align-items: center;
+    }
+
+    header h1 {
+        color:#0f0;
+       text-align: center;
+    } 
+}
+

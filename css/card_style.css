@@ -53,3 +53,12 @@
     height: 40px;
 }
 
+
+@media screen and (max-width: 736px) {
+    .main-container{
+        width: 95%;
+        display: flex;
+        align-items: center;
+        margin: 0 0 0 5px;
+    }
+}
