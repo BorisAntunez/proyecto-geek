@@ -7,64 +7,10 @@
       "id": 1
     },
     {
-      "id": "cdb7",
-      "name": "SPIDERMAN",
-      "price": "$11.990",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo9LeydQRvqOy_fJqyxg6p1gUEva47qIc7nw&s"
-    },
-    {
-      "id": "9b0b",
-      "name": "SPIDERMAN",
-      "price": "$11.990",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo9LeydQRvqOy_fJqyxg6p1gUEva47qIc7nw&s"
-    },
-    {
-      "id": "281e",
-      "name": "SPIDERMAN",
-      "price": "$11.990",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo9LeydQRvqOy_fJqyxg6p1gUEva47qIc7nw&s"
-    },
-    {
-      "id": "009d",
-      "name": "SPIDERMAN",
-      "price": "$11.990",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo9LeydQRvqOy_fJqyxg6p1gUEva47qIc7nw&s"
-    },
-    {
-      "id": "00a6",
-      "name": "SPIDERMAN",
-      "price": "$11.990",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo9LeydQRvqOy_fJqyxg6p1gUEva47qIc7nw&s"
-    },
-    {
-      "id": "3c42",
-      "name": "SPIDERMAN",
-      "price": "$11.990",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo9LeydQRvqOy_fJqyxg6p1gUEva47qIc7nw&s"
-    },
-    {
-      "id": "ae18",
-      "name": "SPIDERMAN",
-      "price": "$11.990",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo9LeydQRvqOy_fJqyxg6p1gUEva47qIc7nw&s"
-    },
-    {
-      "id": "9f05",
-      "name": "SPIDERMAN",
-      "price": "$11.990",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo9LeydQRvqOy_fJqyxg6p1gUEva47qIc7nw&s"
-    },
-    {
-      "id": "5ddc",
-      "name": "SPIDERMAN",
-      "price": "$11.990",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo9LeydQRvqOy_fJqyxg6p1gUEva47qIc7nw&s"
-    },
-    {
-      "id": "8d1c",
-      "name": "SPIDERMAN",
-      "price": "$11.990",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo9LeydQRvqOy_fJqyxg6p1gUEva47qIc7nw&s"
+      "id": "3178",
+      "name": "test",
+      "price": "5465",
+      "image": "https://i.pinimg.com/550x/ae/ae/b3/aeaeb32686a8e9595a7c659711843d0b.jpg"
     }
   ]
 }
